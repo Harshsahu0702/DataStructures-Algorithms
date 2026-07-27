@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0090-subsets-ii) |
 | [0322-coin-change](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
