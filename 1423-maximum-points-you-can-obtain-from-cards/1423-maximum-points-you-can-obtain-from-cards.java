@@ -12,7 +12,7 @@ class Solution {
 
         int max = sum;
 
-        // Gradually replace right cards with left cards
+       
         for (int i = 0; i < k; i++) {
             sum += cardPoints[i];
             sum -= cardPoints[n - k + i];
