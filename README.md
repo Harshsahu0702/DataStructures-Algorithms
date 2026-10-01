@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
