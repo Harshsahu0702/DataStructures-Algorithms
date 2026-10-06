@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
