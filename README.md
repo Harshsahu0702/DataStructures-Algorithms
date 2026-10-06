@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0633-sum-of-square-numbers) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Quicksort
 |  |
 | ------- |
