@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
