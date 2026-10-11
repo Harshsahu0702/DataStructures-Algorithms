@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Backtracking
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
