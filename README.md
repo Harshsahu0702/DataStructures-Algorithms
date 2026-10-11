@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0455-assign-cookies) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harshsahu0702/DataStructures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
